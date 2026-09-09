@@ -1,0 +1,2 @@
+# 3D-Monolithic-Intrachip-Microfluidic-Phase-Change-Cooling-via-Decagonal-Fractal-Lattices
+Traditional computing architectures separate structural computing logic (2D silicon wafers) from thermal management systems (macro-scale external heat sinks/fluid blocks). This spatial decoupling imposes a brutal physical tax: high thermal resistance across materials, boundary-layer stagnation, and destructive sub-ambient condensation.
